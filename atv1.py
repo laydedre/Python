@@ -1,9 +1,9 @@
-# CLASSE
+# CLASSE pessoa - seu nome, idade e cpf
 
 class Pessoa:
     
     def __init__(self, nome, idade, cpf):
-        self.nome = nome                            #atributos
+        self.nome = nome                           #atributos
         self.idade = idade
         self.cpf = cpf
     
