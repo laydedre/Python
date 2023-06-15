@@ -1,3 +1,4 @@
+# CLASSE aluno - seu nome e 3 notas para verificar através da média se está aprovado ou reprovado
 
 class Aluno:
    
