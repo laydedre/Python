@@ -21,4 +21,3 @@ class Aluno:
         else:
             return "REPROVADO"
     
-    
